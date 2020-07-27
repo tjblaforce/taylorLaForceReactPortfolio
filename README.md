@@ -1,4 +1,4 @@
-# React/Redux/Router Starter Project
+# Taylor LaForce React Portfolio
 
 > Provided for the students of the [Bottega Code School](https://bottega.tech/)
 
